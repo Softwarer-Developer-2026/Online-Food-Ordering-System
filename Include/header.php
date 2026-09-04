@@ -16,4 +16,4 @@
         <a href="login.php">Login</a>
     </div>
 
-    <div class="content">
+    <div class="container">
